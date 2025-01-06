@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning dsa
 - 💞️ I’m looking to collaborate on ds projects
 - 📫 alvinjcob05@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns:tech/wiz
 - ⚡ Fun fact: ...
 
 <!---
